@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm hana arif</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hanaarf&label=Profile%20views&color=0e75b6&style=flat" alt="hanaarf" /> </p>
-
 - 🔭 I’m currently open to work
 
 - 🌱 I’m currently learning **laravel,flutter**
