@@ -1,7 +1,8 @@
 
 <h1 align="center">I'm hana arif</h1>
+
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5C7DA9&vCenter=true&random=false&width=435&lines=web+developer;web+designer;mobile+app+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=5C7DA9&center=true&random=false&width=435&lines=web+developer;mobile+app+developer;web+designer" alt="Typing SVG" /></a>
 </p>
 
 - 🔭 I’m currently open to work
@@ -31,7 +32,6 @@ linkedin : https://id.linkedin.com/in/hana-aulia-arif-3497a7245 <br> instagram :
        
 ### 🖥️ Frameworks
 <p>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
