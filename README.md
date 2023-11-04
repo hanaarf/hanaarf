@@ -14,7 +14,7 @@
 
 <hr>
 📫 How to reach me <br>
-linkedin : https://id.linkedin.com/in/hana-aulia-arif-3497a7245 <br> instagram : https://www.instagram.com/rfhnx_/ <br> email : arifhana886@gmail.com  <br>
+linkedin : https://id.linkedin.com/in/hana-aulia-arif-3497a7245 <br> instagram : https://www.instagram.com/rfhnx_/ <br> email : hanaarf@outlook.com  <br>
 <br><br>
 
 
