@@ -14,7 +14,7 @@
 
 <hr>
 📫 How to reach me <br>
-linkedin : https://id.linkedin.com/in/hana-aulia-arif-3497a7245 <br> instagram : https://www.instagram.com/rfhnx_/ <br> email : hanaarf@outlook.com  <br>
+linkedin : https://www.linkedin.com/in/hanaarf/ <br> instagram : https://www.instagram.com/rfhnx_/ <br> email : hanaarf@outlook.com  <br>
 <br><br>
 
 
@@ -35,12 +35,11 @@ linkedin : https://id.linkedin.com/in/hana-aulia-arif-3497a7245 <br> instagram :
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
-    <a href="#"><img alt="" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 
 </p>
 
-### 📄 Databases
+### 📄 Databases & cloud
 <p>
     <a href="#"><img alt="" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"</a>
