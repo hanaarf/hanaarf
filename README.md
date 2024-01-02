@@ -35,7 +35,7 @@ linkedin : https://www.linkedin.com/in/hanaarf/ <br> instagram : https://www.ins
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"></a>
     <a href="#"><img alt="" src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"></a>
-    <a href="#"><img alt="" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+    <a href="#"><img alt="" src="https://img.shields.io/badge/vuejs-6DA55F.svg?style=for-the-badge&logo=Vue.js&logoColor=white"></a>
 
 </p>
 
